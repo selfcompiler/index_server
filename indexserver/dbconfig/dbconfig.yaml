@@ -1,0 +1,17 @@
+fkmp_mediator:
+  host : 10.85.147.15
+  user : common
+  password : common
+  database: nfr_payloads
+
+local_database:
+  host : localhost
+  user : root
+  password :
+  database: nfr_payloads
+
+index_server:
+  host : 10.85.147.15
+  user : common
+  password : common
+  database: index_server
